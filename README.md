@@ -8,3 +8,6 @@ printf n##
 ## Santé du service
 
 Point prévu : GET /health
+
+## Support
+Contact : equipe-b@example.invalid
